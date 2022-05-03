@@ -1,20 +1,20 @@
 ### Hi there 👋
-### 👩🏼‍💻 I'm Ophélie and I'm a french web developer
+### 👩🏼‍💻 I'm Ophélie and I'm a french web developer. I really enjoy learning languages and frameworks like PHP and Symfony. 
 
 *****************
 
-- 🔭 I’m currently working on : a (private for the moment) project
+- 🔭 I’m currently working on : a private (for the moment) project
  - 🌱 I’m currently learning **Symfony, Javascript, Docker, REACT
 - 💬 Ask me about **Symfony**
+- 
+- ### Connect with me:
 - 📫 How to reach me **contactjuliettevila@gmail.com**
 
 *****************
 ## 🪄 Technologies, Languages, Tools and Environments :
 
 - ![stack Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=plastic&logo=Symfony)
-![stack Vue.js](https://img.shields.io/badge/Vue.js-B2ECB2.svg?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNjEuNzYgMjI2LjY5Ij48cGF0aCBkPSJNMTYxLjA5Ni4wMDFsLTMwLjIyNSA1Mi4zNTFMMTAwLjY0Ny4wMDFILS4wMDVsMTMwLjg3NyAyMjYuNjg4TDI2MS43NDkuMDAxeiIgZmlsbD0iIzQxYjg4MyIvPjxwYXRoIGQ9Ik0xNjEuMDk2LjAwMWwtMzAuMjI1IDUyLjM1MUwxMDAuNjQ3LjAwMUg1Mi4zNDZsNzguNTI2IDEzNi4wMUwyMDkuMzk4LjAwMXoiIGZpbGw9IiMzNDQ5NWUiLz48L3N2Zz4K)
-
-- ![stack PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=PHP&logoColor=white) ![stack JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black) ![stack HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white) ![stack Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=plastic&logo=Sass&logoColor=white) ![stack CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white) ![stack Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=Bootstrap&logoColor=white)
+![stack PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=PHP&logoColor=white) ![stack JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black) ![stack HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white) ![stack Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=plastic&logo=Sass&logoColor=white) ![stack CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white) ![stack Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=Bootstrap&logoColor=white)
 
 - ![stack Composer](https://img.shields.io/badge/Composer-885630.svg?style=plastic&logo=Composer&logoColor=white) ![stack npm](https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm) ![stack yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=plastic&logo=yarn&logoColor=white) !
 
@@ -23,6 +23,16 @@
 
 
 - ![stack MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=MySQL&logoColor=white) ![stack Apache](https://img.shields.io/badge/Apache-D22128.svg?style=plastic&logo=Apache) ![stack Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=plastic&logo=Ubuntu&logoColor=white)
+
+### My daily routine :
+
+```mermaid
+  graph TD;
+      Code-->Eat;
+      Eat-->Sleep;
+      Sleep-->Code;
+```
+
 
 
 ### 💻 OS :  
