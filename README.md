@@ -7,8 +7,7 @@
  - 🌱 I’m currently learning **Symfony, Javascript, Docker, REACT
 - 💬 Ask me about **Symfony**
 - 
-- ### Connect with me:
-- 📫 How to reach me **contactjuliettevila@gmail.com**
+
 
 *****************
 ## 🪄 Technologies, Languages, Tools and Environments :
